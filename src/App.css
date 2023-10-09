@@ -1,0 +1,56 @@
+.App {
+  
+  /* width: 930px;
+  height: 350px; */
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  
+  
+  /* margin: 100px; */
+
+
+
+}
+.card{
+  height: 400px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+  
+}
+.plan_details{
+  text-align: left;
+  line-height:30px; 
+  padding:20px;
+}
+.planname{
+  color: cadetblue;
+}
+.header{  
+  padding-top: 25px;
+  line-height: 0px;
+  text-align: center;
+}
+.button{
+  height: 40px;
+  width: 150px;
+  text-align: center;
+  border-radius: 25px;
+  background-color: rgb(11, 31, 250);
+  color: white;
+  border: 1px solid blue;
+}
+.cardouter{
+  background-color: blue;
+  padding: 30px;
+}
+.buttonclass{
+  text-align: center;
+}
+
+
+
